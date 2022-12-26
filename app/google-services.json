@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389991768119",
+    "project_id": "e-palace",
+    "storage_bucket": "e-palace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389991768119:android:699bb37ad8150acc149fb2",
+        "android_client_info": {
+          "package_name": "com.levi.pc_room_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389991768119-hui7henh17o0l14m4c4el6hc468tknrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvm5NqxIODwzBT_I8AhuzvJ8IdbPMA5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389991768119-hui7henh17o0l14m4c4el6hc468tknrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

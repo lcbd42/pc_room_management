@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">pc_room_management</string>
+    <string name="txt_data1">601</string>
+    <string name="txt_data2">World</string>
+
+    <string name="channel_name">My Channel One</string>
+    <string name="channel_desc">My Channel One Description</string>
+    <string name="noti_content_title">이하은</string>
+    <string name="noti_content_text">지디엣씨 안드로이드 쵝오</string>
+    <string name="noti_reply_label">답장을 입력해주세요</string>
+    <string name="noti_action_title">답장</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

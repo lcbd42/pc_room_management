@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="3"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp" >
+
+        <Button android:id="@+id/r1101"
+            android:text="1101"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r1102"
+            android:text="1102"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r1103"
+            android:text="1103"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r1001"
+            android:text="1001"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r1005"
+            android:text="1005"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r1006"
+            android:text="1006"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r901"
+            android:text="901"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r905"
+            android:text="905"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r906"
+            android:text="906"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r801"
+            android:text="801"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r805"
+            android:text="805"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r806"
+            android:text="806"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r701"
+            android:text="701"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r705"
+            android:text="705"
+            style="@style/btnStyle"/>
+
+        <Button  android:id="@+id/r601"
+            android:text="@string/txt_data1"
+            android:layout_column="0"
+            style="@style/btnStyle"/>
+
+        <Button android:id="@+id/r605"
+            android:text="605"
+            style="@style/btnStyle"/>
+      ]
+
+    </GridLayout>
+
+
+
+</LinearLayout>
